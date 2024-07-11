@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+You can checkout this project live at this link https://66900f73607d0f0f6dfb5fd6--poetic-marigold-37ab43.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
